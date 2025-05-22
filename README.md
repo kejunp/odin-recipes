@@ -1,12 +1,12 @@
 # odin-recipes
 A website full of chinese recipes
 
-## IMPORTANT
-For this to work, you need to use
-
-```sh
-python3 -m http.server 8000
-```
+> [!IMPORTANT]
+>For this to work, you need to use
+>
+>```sh
+>python3 -m http.server 8000
+>```
 
 > [!NOTE]
 > if you haven't installed python3, use one of the below
